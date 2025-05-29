@@ -22,7 +22,7 @@ app.config['SECRET_KEY'] = 'a1b2c3d4e5f678901234567890abcdef'
 CORS(app, supports_credentials=True)
 
 YOUR_GEMINI_API_KEY = 'Buraya_kendi_gemini_api_key_girin' #Üzgünüm...
-OPENWEATHER_API_KEY = '9a939f5d0fe0209b89ae649eebf85d7c'
+OPENWEATHER_API_KEY = 'Github_hatasi_sagdakini_yapistir' #9a939f5d0fe0209b89ae649eebf85d7c
 
 genai.configure(api_key=YOUR_GEMINI_API_KEY)
 
@@ -157,7 +157,7 @@ def get_air_pollution():
     try:
         print(f"[DEBUG] Hava kirliliği sorgusu - Şehir: {city}")
 
-        api_key = "a1f28a3bdb8d1733a413ffd338fa166a"
+        api_key = "Sagdakini_yapis" #a1f28a3bdb8d1733a413ffd338fa166a
 
         geocoding_url = f"http://api.openweathermap.org/geo/1.0/direct?q={city},TR&limit=1&appid={api_key}"
 
