@@ -1,0 +1,1023 @@
+﻿id,Şehir,Tarih,Durum,Sıcaklık (°C)
+0,Istanbul,2024-11-15,Orta kuvvetli yağmurlu,13.0
+1,Istanbul,2024-11-16,Bölgesel düzensiz yağmur yağışlı,11.1
+2,Istanbul,2024-11-17,Parçalı Bulutlu,12.0
+3,Istanbul,2024-11-18,Çok bulutlu,12.0
+4,Istanbul,2024-11-19,Güneşli,11.9
+5,Istanbul,2024-11-20,Bulutlu,13.2
+6,Istanbul,2024-11-21,Bölgesel düzensiz yağmur yağışlı,16.0
+7,Istanbul,2024-11-22,Parçalı Bulutlu,11.1
+8,Istanbul,2024-11-23,Bölgesel düzensiz yağmur yağışlı,8.8
+9,Istanbul,2024-11-24,Güneşli,8.3
+10,Istanbul,2024-11-25,Güneşli,10.3
+11,Istanbul,2024-11-26,Güneşli,11.4
+12,Istanbul,2024-11-27,Güneşli,12.0
+13,Istanbul,2024-11-28,Parçalı Bulutlu,12.7
+14,Ankara,2024-11-15,Parçalı Bulutlu,9.6
+15,Ankara,2024-11-16,Bölgesel düzensiz yağmur yağışlı,8.2
+16,Ankara,2024-11-17,Bölgesel düzensiz yağmur yağışlı,7.3
+17,Ankara,2024-11-18,Bölgesel düzensiz yağmur yağışlı,8.4
+18,Ankara,2024-11-19,Bölgesel düzensiz yağmur yağışlı,7.5
+19,Ankara,2024-11-20,Güneşli,7.3
+20,Ankara,2024-11-21,Bulutlu,10.1
+21,Ankara,2024-11-22,Bölgesel düzensiz yağmur yağışlı,12.2
+22,Ankara,2024-11-23,Bölgesel düzensiz yağmur yağışlı,7.9
+23,Ankara,2024-11-24,Güneşli,4.0
+24,Ankara,2024-11-25,Güneşli,7.4
+25,Ankara,2024-11-26,Güneşli,8.5
+26,Ankara,2024-11-27,Çok bulutlu,9.3
+27,Ankara,2024-11-28,Güneşli,11.0
+28,Izmir,2024-11-15,Bölgesel düzensiz yağmur yağışlı,15.6
+29,Izmir,2024-11-16,Orta kuvvetli yağmurlu,12.4
+30,Izmir,2024-11-17,Bölgesel düzensiz yağmur yağışlı,12.1
+31,Izmir,2024-11-18,Güneşli,11.8
+32,Izmir,2024-11-19,Güneşli,11.8
+33,Izmir,2024-11-20,Parçalı Bulutlu,11.7
+34,Izmir,2024-11-21,Bölgesel düzensiz yağmur yağışlı,16.3
+35,Izmir,2024-11-22,Bölgesel düzensiz yağmur yağışlı,15.7
+36,Izmir,2024-11-23,Bölgesel düzensiz yağmur yağışlı,13.9
+37,Izmir,2024-11-24,Güneşli,10.7
+38,Izmir,2024-11-25,Güneşli,12.1
+39,Izmir,2024-11-26,Güneşli,12.8
+40,Izmir,2024-11-27,Güneşli,12.7
+41,Izmir,2024-11-28,Güneşli,13.0
+42,Bursa,2024-11-15,Orta kuvvetli yağmurlu,11.4
+43,Bursa,2024-11-16,Bölgesel düzensiz yağmur yağışlı,9.5
+44,Bursa,2024-11-17,Bölgesel düzensiz yağmur yağışlı,9.3
+45,Bursa,2024-11-18,Bulutlu,9.7
+46,Bursa,2024-11-19,Güneşli,9.9
+47,Bursa,2024-11-20,Parçalı Bulutlu,10.7
+48,Bursa,2024-11-21,Bölgesel düzensiz yağmur yağışlı,15.1
+49,Bursa,2024-11-22,Bölgesel düzensiz yağmur yağışlı,10.9
+50,Bursa,2024-11-23,Bölgesel düzensiz yağmur yağışlı,7.1
+51,Bursa,2024-11-24,Güneşli,5.9
+52,Bursa,2024-11-25,Güneşli,8.5
+53,Bursa,2024-11-26,Güneşli,9.3
+54,Bursa,2024-11-27,Güneşli,10.2
+55,Bursa,2024-11-28,Güneşli,11.0
+56,Antalya,2024-11-15,Bölgesel düzensiz yağmur yağışlı,17.0
+57,Antalya,2024-11-16,Bölgesel düzensiz yağmur yağışlı,16.7
+58,Antalya,2024-11-17,Şiddetli yağmurlu,14.7
+59,Antalya,2024-11-18,Bölgesel düzensiz yağmur yağışlı,15.4
+60,Antalya,2024-11-19,Güneşli,15.2
+61,Antalya,2024-11-20,Bölgesel düzensiz yağmur yağışlı,14.0
+62,Antalya,2024-11-21,Bölgesel düzensiz yağmur yağışlı,14.0
+63,Antalya,2024-11-22,Bölgesel düzensiz yağmur yağışlı,15.9
+64,Antalya,2024-11-23,Bölgesel düzensiz yağmur yağışlı,16.5
+65,Antalya,2024-11-24,Güneşli,16.6
+66,Antalya,2024-11-25,Güneşli,17.1
+67,Antalya,2024-11-26,Parçalı Bulutlu,17.4
+68,Antalya,2024-11-27,Parçalı Bulutlu,16.9
+69,Antalya,2024-11-28,Parçalı Bulutlu,16.3
+70,Adana,2024-11-15,Bölgesel düzensiz yağmur yağışlı,17.6
+71,Adana,2024-11-16,Bölgesel düzensiz yağmur yağışlı,17.5
+72,Adana,2024-11-17,Şiddetli yağmurlu,15.2
+73,Adana,2024-11-18,Şiddetli yağmurlu,13.4
+74,Adana,2024-11-19,Güneşli,15.1
+75,Adana,2024-11-20,Parçalı Bulutlu,14.6
+76,Adana,2024-11-21,Güneşli,16.2
+77,Adana,2024-11-22,Bölgesel düzensiz yağmur yağışlı,15.7
+78,Adana,2024-11-23,Bölgesel düzensiz yağmur yağışlı,16.0
+79,Adana,2024-11-24,Güneşli,17.7
+80,Adana,2024-11-25,Güneşli,18.1
+81,Adana,2024-11-26,Parçalı Bulutlu,18.1
+82,Adana,2024-11-27,Güneşli,18.4
+83,Adana,2024-11-28,Bölgesel düzensiz yağmur yağışlı,17.8
+84,Konya,2024-11-15,Güneşli,11.0
+85,Konya,2024-11-16,Bölgesel düzensiz yağmur yağışlı,10.3
+86,Konya,2024-11-17,Orta kuvvetli yağmurlu,9.7
+87,Konya,2024-11-18,Bölgesel düzensiz yağmur yağışlı,9.4
+88,Konya,2024-11-19,Bölgesel düzensiz yağmur yağışlı,8.9
+89,Konya,2024-11-20,Güneşli,7.3
+90,Konya,2024-11-21,Güneşli,8.9
+91,Konya,2024-11-22,Bulutlu,9.6
+92,Konya,2024-11-23,Parçalı Bulutlu,10.4
+93,Konya,2024-11-24,Parçalı Bulutlu,8.0
+94,Konya,2024-11-25,Güneşli,8.3
+95,Konya,2024-11-26,Güneşli,8.6
+96,Konya,2024-11-27,Parçalı Bulutlu,9.8
+97,Konya,2024-11-28,Güneşli,10.3
+98,Gaziantep,2024-11-15,Güneşli,13.3
+99,Gaziantep,2024-11-16,Güneşli,13.0
+100,Gaziantep,2024-11-17,Orta kuvvetli yağmurlu,11.0
+101,Gaziantep,2024-11-18,Şiddetli yağmurlu,9.5
+102,Gaziantep,2024-11-19,Güneşli,10.3
+103,Gaziantep,2024-11-20,Bölgesel düzensiz yağmur yağışlı,10.4
+104,Gaziantep,2024-11-21,Bölgesel düzensiz yağmur yağışlı,11.3
+105,Gaziantep,2024-11-22,Parçalı Bulutlu,11.6
+106,Gaziantep,2024-11-23,Parçalı Bulutlu,12.6
+107,Gaziantep,2024-11-24,Güneşli,13.1
+108,Gaziantep,2024-11-25,Güneşli,13.4
+109,Gaziantep,2024-11-26,Güneşli,13.4
+110,Gaziantep,2024-11-27,Güneşli,13.0
+111,Gaziantep,2024-11-28,Güneşli,12.8
+112,Mersin,2024-11-15,Bölgesel düzensiz yağmur yağışlı,17.8
+113,Mersin,2024-11-16,Bölgesel düzensiz yağmur yağışlı,17.8
+114,Mersin,2024-11-17,Şiddetli yağmurlu,16.4
+115,Mersin,2024-11-18,Orta kuvvetli yağmurlu,14.8
+116,Mersin,2024-11-19,Güneşli,15.9
+117,Mersin,2024-11-20,Bölgesel düzensiz yağmur yağışlı,15.9
+118,Mersin,2024-11-21,Bölgesel düzensiz yağmur yağışlı,16.8
+119,Mersin,2024-11-22,Bölgesel düzensiz yağmur yağışlı,16.8
+120,Mersin,2024-11-23,Bölgesel düzensiz yağmur yağışlı,16.8
+121,Mersin,2024-11-24,Güneşli,18.1
+122,Mersin,2024-11-25,Güneşli,19.0
+123,Mersin,2024-11-26,Güneşli,19.3
+124,Mersin,2024-11-27,Güneşli,19.2
+125,Mersin,2024-11-28,Parçalı Bulutlu,18.8
+126,Kayseri,2024-11-15,Parçalı Bulutlu,10.1
+127,Kayseri,2024-11-16,Bölgesel düzensiz yağmur yağışlı,8.8
+128,Kayseri,2024-11-17,Bölgesel düzensiz yağmur yağışlı,8.9
+129,Kayseri,2024-11-18,Orta kuvvetli yağmurlu,8.6
+130,Kayseri,2024-11-19,Bölgesel düzensiz yağmur yağışlı,8.2
+131,Kayseri,2024-11-20,Güneşli,6.5
+132,Kayseri,2024-11-21,Güneşli,8.9
+133,Kayseri,2024-11-22,Bölgesel düzensiz yağmur yağışlı,10.1
+134,Kayseri,2024-11-23,Bölgesel düzensiz yağmur yağışlı,10.8
+135,Kayseri,2024-11-24,Güneşli,8.1
+136,Kayseri,2024-11-25,Güneşli,7.6
+137,Kayseri,2024-11-26,Güneşli,7.8
+138,Kayseri,2024-11-27,Parçalı Bulutlu,8.7
+139,Kayseri,2024-11-28,Güneşli,9.3
+140,Samsun,2024-11-15,Bölgesel düzensiz yağmur yağışlı,11.8
+141,Samsun,2024-11-16,Orta kuvvetli yağmurlu,9.5
+142,Samsun,2024-11-17,Güneşli,9.3
+143,Samsun,2024-11-18,Bölgesel düzensiz yağmur yağışlı,11.7
+144,Samsun,2024-11-19,Bölgesel düzensiz yağmur yağışlı,10.2
+145,Samsun,2024-11-20,Güneşli,10.4
+146,Samsun,2024-11-21,Güneşli,14.8
+147,Samsun,2024-11-22,Bölgesel düzensiz yağmur yağışlı,11.8
+148,Samsun,2024-11-23,Bölgesel düzensiz yağmur yağışlı,11.1
+149,Samsun,2024-11-24,Güneşli,7.3
+150,Samsun,2024-11-25,Güneşli,9.1
+151,Samsun,2024-11-26,Güneşli,8.7
+152,Samsun,2024-11-27,Güneşli,10.4
+153,Samsun,2024-11-28,Güneşli,11.5
+154,Trabzon,2024-11-15,Parçalı Bulutlu,13.2
+155,Trabzon,2024-11-16,Şiddetli yağmurlu,12.0
+156,Trabzon,2024-11-17,Bölgesel düzensiz yağmur yağışlı,10.3
+157,Trabzon,2024-11-18,Bölgesel düzensiz yağmur yağışlı,14.0
+158,Trabzon,2024-11-19,Orta kuvvetli yağmurlu,12.7
+159,Trabzon,2024-11-20,Güneşli,11.6
+160,Trabzon,2024-11-21,Güneşli,15.4
+161,Trabzon,2024-11-22,Bulutlu,13.8
+162,Trabzon,2024-11-23,Orta kuvvetli yağmurlu,14.1
+163,Trabzon,2024-11-24,Bölgesel düzensiz yağmur yağışlı,8.6
+164,Trabzon,2024-11-25,Güneşli,10.4
+165,Trabzon,2024-11-26,Güneşli,10.4
+166,Trabzon,2024-11-27,Güneşli,11.4
+167,Trabzon,2024-11-28,Güneşli,12.9
+168,Eskisehir,2024-11-15,Bölgesel düzensiz yağmur yağışlı,10.3
+169,Eskisehir,2024-11-16,Bölgesel düzensiz yağmur yağışlı,8.3
+170,Eskisehir,2024-11-17,Bölgesel düzensiz yağmur yağışlı,7.9
+171,Eskisehir,2024-11-18,Parçalı Bulutlu,8.9
+172,Eskisehir,2024-11-19,Güneşli,8.3
+173,Eskisehir,2024-11-20,Güneşli,7.9
+174,Eskisehir,2024-11-21,Güneşli,12.1
+175,Eskisehir,2024-11-22,Bölgesel düzensiz yağmur yağışlı,11.9
+176,Eskisehir,2024-11-23,Bölgesel düzensiz yağmur yağışlı,5.9
+177,Eskisehir,2024-11-24,Güneşli,4.6
+178,Eskisehir,2024-11-25,Güneşli,8.1
+179,Eskisehir,2024-11-26,Güneşli,9.4
+180,Eskisehir,2024-11-27,Çok bulutlu,10.6
+181,Eskisehir,2024-11-28,Güneşli,10.7
+182,Denizli,2024-11-15,Parçalı Bulutlu,12.2
+183,Denizli,2024-11-16,Bölgesel düzensiz yağmur yağışlı,11.0
+184,Denizli,2024-11-17,Bölgesel düzensiz yağmur yağışlı,11.0
+185,Denizli,2024-11-18,Bölgesel düzensiz yağmur yağışlı,10.1
+186,Denizli,2024-11-19,Güneşli,10.0
+187,Denizli,2024-11-20,Güneşli,7.1
+188,Denizli,2024-11-21,Bölgesel düzensiz yağmur yağışlı,10.9
+189,Denizli,2024-11-22,Bölgesel düzensiz yağmur yağışlı,14.1
+190,Denizli,2024-11-23,Bölgesel düzensiz yağmur yağışlı,14.3
+191,Denizli,2024-11-24,Güneşli,11.3
+192,Denizli,2024-11-25,Güneşli,10.1
+193,Denizli,2024-11-26,Güneşli,10.9
+194,Denizli,2024-11-27,Güneşli,11.2
+195,Denizli,2024-11-28,Güneşli,9.7
+196,Sanliurfa,2024-11-15,Güneşli,15.5
+197,Sanliurfa,2024-11-16,Parçalı Bulutlu,15.0
+198,Sanliurfa,2024-11-17,Bölgesel düzensiz yağmur yağışlı,15.2
+199,Sanliurfa,2024-11-18,Orta kuvvetli yağmurlu,14.2
+200,Sanliurfa,2024-11-19,Güneşli,12.7
+201,Sanliurfa,2024-11-20,Güneşli,12.2
+202,Sanliurfa,2024-11-21,Parçalı Bulutlu,13.6
+203,Sanliurfa,2024-11-22,Parçalı Bulutlu,13.9
+204,Sanliurfa,2024-11-23,Parçalı Bulutlu,15.3
+205,Sanliurfa,2024-11-24,Güneşli,15.0
+206,Sanliurfa,2024-11-25,Güneşli,14.8
+207,Sanliurfa,2024-11-26,Güneşli,15.0
+208,Sanliurfa,2024-11-27,Güneşli,14.5
+209,Sanliurfa,2024-11-28,Güneşli,14.5
+210,Diyarbakir,2024-11-15,Güneşli,12.7
+211,Diyarbakir,2024-11-16,Bölgesel düzensiz yağmur yağışlı,12.1
+212,Diyarbakir,2024-11-17,Bölgesel düzensiz yağmur yağışlı,11.8
+213,Diyarbakir,2024-11-18,Orta kuvvetli yağmurlu,11.4
+214,Diyarbakir,2024-11-19,Bölgesel düzensiz yağmur yağışlı,11.2
+215,Diyarbakir,2024-11-20,Parçalı Bulutlu,11.3
+216,Diyarbakir,2024-11-21,Güneşli,11.9
+217,Diyarbakir,2024-11-22,Bölgesel düzensiz yağmur yağışlı,11.9
+218,Diyarbakir,2024-11-23,Parçalı Bulutlu,13.3
+219,Diyarbakir,2024-11-24,Güneşli,13.1
+220,Diyarbakir,2024-11-25,Güneşli,12.6
+221,Diyarbakir,2024-11-26,Güneşli,13.0
+222,Diyarbakir,2024-11-27,Güneşli,12.8
+223,Diyarbakir,2024-11-28,Güneşli,12.9
+224,Balikesir,2024-11-15,Bölgesel düzensiz yağmur yağışlı,12.6
+225,Balikesir,2024-11-16,Bölgesel düzensiz yağmur yağışlı,10.5
+226,Balikesir,2024-11-17,Bölgesel düzensiz yağmur yağışlı,9.8
+227,Balikesir,2024-11-18,Bulutlu,10.2
+228,Balikesir,2024-11-19,Güneşli,10.2
+229,Balikesir,2024-11-20,Parçalı Bulutlu,10.5
+230,Balikesir,2024-11-21,Bölgesel düzensiz yağmur yağışlı,16.2
+231,Balikesir,2024-11-22,Bölgesel düzensiz yağmur yağışlı,12.4
+232,Balikesir,2024-11-23,Bölgesel düzensiz yağmur yağışlı,8.2
+233,Balikesir,2024-11-24,Güneşli,5.8
+234,Balikesir,2024-11-25,Güneşli,8.3
+235,Balikesir,2024-11-26,Güneşli,9.7
+236,Balikesir,2024-11-27,Güneşli,11.2
+237,Balikesir,2024-11-28,Güneşli,12.4
+238,Aydin,2024-11-15,Bölgesel düzensiz yağmur yağışlı,14.5
+239,Aydin,2024-11-16,Orta kuvvetli yağmurlu,13.0
+240,Aydin,2024-11-17,Orta kuvvetli yağmurlu,13.6
+241,Aydin,2024-11-18,Parçalı Bulutlu,11.8
+242,Aydin,2024-11-19,Güneşli,11.4
+243,Aydin,2024-11-20,Parçalı Bulutlu,10.9
+244,Aydin,2024-11-21,Bölgesel düzensiz yağmur yağışlı,13.6
+245,Aydin,2024-11-22,Bölgesel düzensiz yağmur yağışlı,15.0
+246,Aydin,2024-11-23,Bölgesel düzensiz yağmur yağışlı,14.0
+247,Aydin,2024-11-24,Güneşli,11.2
+248,Aydin,2024-11-25,Güneşli,13.1
+249,Aydin,2024-11-26,Güneşli,10.6
+250,Aydin,2024-11-27,Güneşli,13.6
+251,Aydin,2024-11-28,Güneşli,13.7
+252,Manisa,2024-11-15,Bölgesel düzensiz yağmur yağışlı,15.6
+253,Manisa,2024-11-16,Orta kuvvetli yağmurlu,12.1
+254,Manisa,2024-11-17,Bölgesel düzensiz yağmur yağışlı,11.9
+255,Manisa,2024-11-18,Parçalı Bulutlu,11.2
+256,Manisa,2024-11-19,Güneşli,11.0
+257,Manisa,2024-11-20,Parçalı Bulutlu,10.4
+258,Manisa,2024-11-21,Bölgesel düzensiz yağmur yağışlı,15.4
+259,Manisa,2024-11-22,Bölgesel düzensiz yağmur yağışlı,15.2
+260,Manisa,2024-11-23,Bölgesel düzensiz yağmur yağışlı,12.5
+261,Manisa,2024-11-24,Güneşli,9.8
+262,Manisa,2024-11-25,Güneşli,11.5
+263,Manisa,2024-11-26,Güneşli,12.3
+264,Manisa,2024-11-27,Güneşli,12.9
+265,Manisa,2024-11-28,Güneşli,12.5
+266,Tekirdag,2024-11-15,Bölgesel düzensiz yağmur yağışlı,10.9
+267,Tekirdag,2024-11-16,Bölgesel düzensiz yağmur yağışlı,9.5
+268,Tekirdag,2024-11-17,Parçalı Bulutlu,10.0
+269,Tekirdag,2024-11-18,Güneşli,10.7
+270,Tekirdag,2024-11-19,Parçalı Bulutlu,10.4
+271,Tekirdag,2024-11-20,Parçalı Bulutlu,11.9
+272,Tekirdag,2024-11-21,Bölgesel düzensiz yağmur yağışlı,15.0
+273,Tekirdag,2024-11-22,Güneşli,9.7
+274,Tekirdag,2024-11-23,Bölgesel düzensiz yağmur yağışlı,8.0
+275,Tekirdag,2024-11-24,Güneşli,6.7
+276,Tekirdag,2024-11-25,Güneşli,8.3
+277,Tekirdag,2024-11-26,Güneşli,9.5
+278,Tekirdag,2024-11-27,Güneşli,10.4
+279,Tekirdag,2024-11-28,Parçalı Bulutlu,12.1
+280,Kocaeli,2024-11-15,Orta kuvvetli yağmurlu,12.3
+281,Kocaeli,2024-11-16,Orta kuvvetli yağmurlu,9.8
+282,Kocaeli,2024-11-17,Parçalı Bulutlu,9.3
+283,Kocaeli,2024-11-18,Çok bulutlu,10.0
+284,Kocaeli,2024-11-19,Güneşli,10.1
+285,Kocaeli,2024-11-20,Parçalı Bulutlu,11.2
+286,Kocaeli,2024-11-21,Bölgesel düzensiz yağmur yağışlı,16.1
+287,Kocaeli,2024-11-22,Bölgesel düzensiz yağmur yağışlı,9.9
+288,Kocaeli,2024-11-23,Bölgesel düzensiz yağmur yağışlı,7.0
+289,Kocaeli,2024-11-24,Güneşli,6.0
+290,Kocaeli,2024-11-25,Güneşli,7.9
+291,Kocaeli,2024-11-26,Güneşli,9.7
+292,Kocaeli,2024-11-27,Çok bulutlu,10.9
+293,Kocaeli,2024-11-28,Güneşli,11.8
+294,Sakarya,2024-11-15,Orta kuvvetli yağmurlu,12.7
+295,Sakarya,2024-11-16,Orta kuvvetli yağmurlu,9.9
+296,Sakarya,2024-11-17,Parçalı Bulutlu,8.5
+297,Sakarya,2024-11-18,Parçalı Bulutlu,10.0
+298,Sakarya,2024-11-19,Güneşli,10.0
+299,Sakarya,2024-11-20,Güneşli,11.1
+300,Sakarya,2024-11-21,Bölgesel düzensiz yağmur yağışlı,16.3
+301,Sakarya,2024-11-22,Bölgesel düzensiz yağmur yağışlı,9.9
+302,Sakarya,2024-11-23,Bölgesel düzensiz yağmur yağışlı,7.0
+303,Sakarya,2024-11-24,Güneşli,5.9
+304,Sakarya,2024-11-25,Güneşli,7.8
+305,Sakarya,2024-11-26,Güneşli,9.8
+306,Sakarya,2024-11-27,Çok bulutlu,10.8
+307,Sakarya,2024-11-28,Güneşli,12.0
+308,Kutahya,2024-11-15,Bölgesel düzensiz yağmur yağışlı,9.4
+309,Kutahya,2024-11-16,Bölgesel düzensiz yağmur yağışlı,7.1
+310,Kutahya,2024-11-17,Bölgesel düzensiz yağmur yağışlı,7.5
+311,Kutahya,2024-11-18,Bölgesel düzensiz yağmur yağışlı,8.4
+312,Kutahya,2024-11-19,Parçalı Bulutlu,7.8
+313,Kutahya,2024-11-20,Güneşli,5.4
+314,Kutahya,2024-11-21,Parçalı Bulutlu,9.0
+315,Kutahya,2024-11-22,Bölgesel düzensiz yağmur yağışlı,11.9
+316,Kutahya,2024-11-23,Bölgesel düzensiz yağmur yağışlı,6.1
+317,Kutahya,2024-11-24,Güneşli,4.9
+318,Kutahya,2024-11-25,Güneşli,6.9
+319,Kutahya,2024-11-26,Güneşli,7.8
+320,Kutahya,2024-11-27,Parçalı Bulutlu,8.6
+321,Kutahya,2024-11-28,Güneşli,8.4
+322,Corum,2024-11-15,Bölgesel düzensiz yağmur yağışlı,10.2
+323,Corum,2024-11-16,Bölgesel düzensiz yağmur yağışlı,7.9
+324,Corum,2024-11-17,Güneşli,6.3
+325,Corum,2024-11-18,Bölgesel düzensiz yağmur yağışlı,7.1
+326,Corum,2024-11-19,Bölgesel düzensiz yağmur yağışlı,7.6
+327,Corum,2024-11-20,Güneşli,6.3
+328,Corum,2024-11-21,Güneşli,10.6
+329,Corum,2024-11-22,Bölgesel düzensiz yağmur yağışlı,12.4
+330,Corum,2024-11-23,Bölgesel düzensiz yağmur yağışlı,9.9
+331,Corum,2024-11-24,Güneşli,2.9
+332,Corum,2024-11-25,Güneşli,6.7
+333,Corum,2024-11-26,Güneşli,7.2
+334,Corum,2024-11-27,Parçalı Bulutlu,8.0
+335,Corum,2024-11-28,Güneşli,9.5
+336,Kirikkale,2024-11-15,Parçalı Bulutlu,11.2
+337,Kirikkale,2024-11-16,Bölgesel düzensiz yağmur yağışlı,8.6
+338,Kirikkale,2024-11-17,Parçalı Bulutlu,5.4
+339,Kirikkale,2024-11-18,Bölgesel düzensiz yağmur yağışlı,7.1
+340,Kirikkale,2024-11-19,Bölgesel düzensiz yağmur yağışlı,7.3
+341,Kirikkale,2024-11-20,Güneşli,6.2
+342,Kirikkale,2024-11-21,Güneşli,9.7
+343,Kirikkale,2024-11-22,Parçalı Bulutlu,11.1
+344,Kirikkale,2024-11-23,Bölgesel düzensiz yağmur yağışlı,8.0
+345,Kirikkale,2024-11-24,Güneşli,2.1
+346,Kirikkale,2024-11-25,Güneşli,4.4
+347,Kirikkale,2024-11-26,Güneşli,6.0
+348,Kirikkale,2024-11-27,Bulutlu,6.7
+349,Kirikkale,2024-11-28,Güneşli,8.9
+350,Canakkale,2024-11-15,Bölgesel düzensiz yağmur yağışlı,13.0
+351,Canakkale,2024-11-16,Bölgesel düzensiz yağmur yağışlı,10.4
+352,Canakkale,2024-11-17,Çok bulutlu,10.2
+353,Canakkale,2024-11-18,Güneşli,10.5
+354,Canakkale,2024-11-19,Parçalı Bulutlu,11.4
+355,Canakkale,2024-11-20,Parçalı Bulutlu,12.4
+356,Canakkale,2024-11-21,Bölgesel düzensiz yağmur yağışlı,16.9
+357,Canakkale,2024-11-22,Güneşli,11.6
+358,Canakkale,2024-11-23,Bölgesel düzensiz yağmur yağışlı,9.8
+359,Canakkale,2024-11-24,Güneşli,8.1
+360,Canakkale,2024-11-25,Güneşli,9.8
+361,Canakkale,2024-11-26,Güneşli,11.0
+362,Canakkale,2024-11-27,Parçalı Bulutlu,11.6
+363,Canakkale,2024-11-28,Güneşli,12.6
+364,Elazig,2024-11-15,Güneşli,9.7
+365,Elazig,2024-11-16,Bölgesel düzensiz yağmur yağışlı,8.1
+366,Elazig,2024-11-17,Bölgesel düzensiz yağmur yağışlı,9.5
+367,Elazig,2024-11-18,Orta kuvvetli yağmurlu,9.9
+368,Elazig,2024-11-19,Bölgesel düzensiz yağmur yağışlı,9.9
+369,Elazig,2024-11-20,Parçalı Bulutlu,8.3
+370,Elazig,2024-11-21,Bölgesel düzensiz yağmur yağışlı,9.8
+371,Elazig,2024-11-22,Bölgesel düzensiz yağmur yağışlı,10.3
+372,Elazig,2024-11-23,Parçalı Bulutlu,9.8
+373,Elazig,2024-11-24,Güneşli,10.5
+374,Elazig,2024-11-25,Güneşli,6.9
+375,Elazig,2024-11-26,Güneşli,7.5
+376,Elazig,2024-11-27,Güneşli,9.6
+377,Elazig,2024-11-28,Güneşli,8.5
+378,Van,2024-11-15,Güneşli,6.5
+379,Van,2024-11-16,Güneşli,5.3
+380,Van,2024-11-17,Bölgesel düzensiz yağmur yağışlı,4.4
+381,Van,2024-11-18,Bölgesel düzensiz yağmur yağışlı,4.8
+382,Van,2024-11-19,Bölgesel düzensiz yağmur yağışlı,3.8
+383,Van,2024-11-20,Bölgesel düzensiz yağmur yağışlı,3.5
+384,Van,2024-11-21,Güneşli,3.7
+385,Van,2024-11-22,Güneşli,4.0
+386,Van,2024-11-23,Güneşli,5.5
+387,Van,2024-11-24,Güneşli,6.0
+388,Van,2024-11-25,Güneşli,6.2
+389,Van,2024-11-26,Güneşli,5.7
+390,Van,2024-11-27,Güneşli,5.4
+391,Van,2024-11-28,Güneşli,4.7
+392,Mugla,2024-11-15,Bölgesel düzensiz yağmur yağışlı,12.7
+393,Mugla,2024-11-16,Orta kuvvetli yağmurlu,11.8
+394,Mugla,2024-11-17,Orta kuvvetli yağmurlu,10.8
+395,Mugla,2024-11-18,Bölgesel düzensiz yağmur yağışlı,9.7
+396,Mugla,2024-11-19,Güneşli,10.0
+397,Mugla,2024-11-20,Parçalı Bulutlu,8.5
+398,Mugla,2024-11-21,Bölgesel düzensiz yağmur yağışlı,10.9
+399,Mugla,2024-11-22,Bölgesel düzensiz yağmur yağışlı,12.6
+400,Mugla,2024-11-23,Bölgesel düzensiz yağmur yağışlı,13.3
+401,Mugla,2024-11-24,Güneşli,12.6
+402,Mugla,2024-11-25,Güneşli,12.6
+403,Mugla,2024-11-26,Güneşli,12.7
+404,Mugla,2024-11-27,Güneşli,12.4
+405,Mugla,2024-11-28,Güneşli,11.7
+406,Ordu,2024-11-15,Bölgesel düzensiz yağmur yağışlı,12.3
+407,Ordu,2024-11-16,Şiddetli yağmurlu,10.5
+408,Ordu,2024-11-17,Bölgesel düzensiz yağmur yağışlı,10.2
+409,Ordu,2024-11-18,Bölgesel düzensiz yağmur yağışlı,11.8
+410,Ordu,2024-11-19,Şiddetli yağmurlu,10.4
+411,Ordu,2024-11-20,Güneşli,10.0
+412,Ordu,2024-11-21,Güneşli,14.3
+413,Ordu,2024-11-22,Bölgesel düzensiz yağmur yağışlı,11.6
+414,Ordu,2024-11-23,Orta kuvvetli yağmurlu,11.3
+415,Ordu,2024-11-24,Bölgesel düzensiz yağmur yağışlı,7.4
+416,Ordu,2024-11-25,Güneşli,9.0
+417,Ordu,2024-11-26,Güneşli,8.8
+418,Ordu,2024-11-27,Güneşli,10.1
+419,Ordu,2024-11-28,Güneşli,11.2
+420,Hatay,2024-11-15,Bölgesel düzensiz yağmur yağışlı,15.4
+421,Hatay,2024-11-16,Bölgesel düzensiz yağmur yağışlı,15.5
+422,Hatay,2024-11-17,Orta kuvvetli yağmurlu,14.7
+423,Hatay,2024-11-18,Şiddetli yağmurlu,12.9
+424,Hatay,2024-11-19,Bölgesel düzensiz yağmur yağışlı,12.6
+425,Hatay,2024-11-20,Bölgesel düzensiz yağmur yağışlı,11.9
+426,Hatay,2024-11-21,Güneşli,14.4
+427,Hatay,2024-11-22,Parçalı Bulutlu,15.8
+428,Hatay,2024-11-23,Parçalı Bulutlu,16.3
+429,Hatay,2024-11-24,Güneşli,15.5
+430,Hatay,2024-11-25,Güneşli,15.4
+431,Hatay,2024-11-26,Güneşli,15.5
+432,Hatay,2024-11-27,Güneşli,15.0
+433,Hatay,2024-11-28,Güneşli,14.7
+434,Afyonkarahisar,2024-11-15,Bölgesel düzensiz yağmur yağışlı,9.4
+435,Afyonkarahisar,2024-11-16,Bölgesel düzensiz yağmur yağışlı,8.4
+436,Afyonkarahisar,2024-11-17,Bölgesel düzensiz yağmur yağışlı,9.3
+437,Afyonkarahisar,2024-11-18,Bölgesel düzensiz yağmur yağışlı,8.2
+438,Afyonkarahisar,2024-11-19,Parçalı Bulutlu,6.6
+439,Afyonkarahisar,2024-11-20,Güneşli,6.3
+440,Afyonkarahisar,2024-11-21,Güneşli,8.4
+441,Afyonkarahisar,2024-11-22,Parçalı Bulutlu,10.2
+442,Afyonkarahisar,2024-11-23,Bölgesel düzensiz yağmur yağışlı,8.5
+443,Afyonkarahisar,2024-11-24,Güneşli,6.8
+444,Afyonkarahisar,2024-11-25,Güneşli,8.0
+445,Afyonkarahisar,2024-11-26,Güneşli,8.4
+446,Afyonkarahisar,2024-11-27,Parçalı Bulutlu,9.6
+447,Afyonkarahisar,2024-11-28,Güneşli,9.3
+448,Zonguldak,2024-11-15,Orta kuvvetli yağmurlu,12.5
+449,Zonguldak,2024-11-16,Orta kuvvetli yağmurlu,10.8
+450,Zonguldak,2024-11-17,Güneşli,10.1
+451,Zonguldak,2024-11-18,Bölgesel düzensiz yağmur yağışlı,11.7
+452,Zonguldak,2024-11-19,Bölgesel düzensiz yağmur yağışlı,11.9
+453,Zonguldak,2024-11-20,Güneşli,12.5
+454,Zonguldak,2024-11-21,Güneşli,16.1
+455,Zonguldak,2024-11-22,Bölgesel düzensiz yağmur yağışlı,10.4
+456,Zonguldak,2024-11-23,Bölgesel düzensiz yağmur yağışlı,8.3
+457,Zonguldak,2024-11-24,Güneşli,7.5
+458,Zonguldak,2024-11-25,Güneşli,10.1
+459,Zonguldak,2024-11-26,Güneşli,11.7
+460,Zonguldak,2024-11-27,Parçalı Bulutlu,12.3
+461,Zonguldak,2024-11-28,Güneşli,13.0
+462,Bolu,2024-11-15,Orta kuvvetli yağmurlu,8.4
+463,Bolu,2024-11-16,Bölgesel düzensiz yağmur yağışlı,3.6
+464,Bolu,2024-11-17,Parçalı Bulutlu,4.1
+465,Bolu,2024-11-18,Bölgesel düzensiz yağmur yağışlı,4.3
+466,Bolu,2024-11-19,Güneşli,4.1
+467,Bolu,2024-11-20,Güneşli,4.2
+468,Bolu,2024-11-21,Bölgesel düzensiz yağmur yağışlı,8.9
+469,Bolu,2024-11-22,Bölgesel düzensiz yağmur yağışlı,9.4
+470,Bolu,2024-11-23,Bölgesel düzensiz yağmur yağışlı,1.2
+471,Bolu,2024-11-24,Güneşli,-0.1
+472,Bolu,2024-11-25,Güneşli,3.2
+473,Bolu,2024-11-26,Güneşli,7.5
+474,Bolu,2024-11-27,Parçalı Bulutlu,10.6
+475,Bolu,2024-11-28,Güneşli,9.3
+476,Rize,2024-11-15,Güneşli,12.6
+477,Rize,2024-11-16,Şiddetli yağmurlu,10.4
+478,Rize,2024-11-17,Bölgesel düzensiz yağmur yağışlı,9.1
+479,Rize,2024-11-18,Parçalı Bulutlu,12.6
+480,Rize,2024-11-19,Şiddetli yağmurlu,11.7
+481,Rize,2024-11-20,Güneşli,11.7
+482,Rize,2024-11-21,Güneşli,14.8
+483,Rize,2024-11-22,Bölgesel düzensiz yağmur yağışlı,13.2
+484,Rize,2024-11-23,Orta kuvvetli yağmurlu,13.6
+485,Rize,2024-11-24,Bölgesel düzensiz yağmur yağışlı,8.1
+486,Rize,2024-11-25,Güneşli,10.7
+487,Rize,2024-11-26,Güneşli,10.8
+488,Rize,2024-11-27,Güneşli,12.0
+489,Rize,2024-11-28,Güneşli,13.5
+490,Nevsehir,2024-11-15,Parçalı Bulutlu,10.1
+491,Nevsehir,2024-11-16,Bölgesel düzensiz yağmur yağışlı,9.1
+492,Nevsehir,2024-11-17,Bölgesel düzensiz yağmur yağışlı,7.6
+493,Nevsehir,2024-11-18,Bölgesel düzensiz yağmur yağışlı,7.5
+494,Nevsehir,2024-11-19,Bölgesel düzensiz yağmur yağışlı,7.6
+495,Nevsehir,2024-11-20,Güneşli,6.7
+496,Nevsehir,2024-11-21,Güneşli,8.2
+497,Nevsehir,2024-11-22,Parçalı Bulutlu,9.1
+498,Nevsehir,2024-11-23,Bölgesel düzensiz yağmur yağışlı,9.7
+499,Nevsehir,2024-11-24,Güneşli,7.0
+500,Nevsehir,2024-11-25,Güneşli,7.6
+501,Nevsehir,2024-11-26,Güneşli,8.0
+502,Nevsehir,2024-11-27,Güneşli,9.2
+503,Nevsehir,2024-11-28,Güneşli,10.1
+504,Batman,2024-11-15,Güneşli,13.1
+505,Batman,2024-11-16,Parçalı Bulutlu,12.7
+506,Batman,2024-11-17,Parçalı Bulutlu,13.8
+507,Batman,2024-11-18,Orta kuvvetli yağmurlu,13.0
+508,Batman,2024-11-19,Bölgesel düzensiz yağmur yağışlı,12.3
+509,Batman,2024-11-20,Bölgesel düzensiz yağmur yağışlı,12.3
+510,Batman,2024-11-21,Güneşli,13.0
+511,Batman,2024-11-22,Parçalı Bulutlu,13.2
+512,Batman,2024-11-23,Parçalı Bulutlu,14.4
+513,Batman,2024-11-24,Güneşli,13.7
+514,Batman,2024-11-25,Güneşli,12.2
+515,Batman,2024-11-26,Güneşli,12.5
+516,Batman,2024-11-27,Güneşli,13.0
+517,Batman,2024-11-28,Güneşli,12.8
+518,Aksaray,2024-11-15,Parçalı Bulutlu,10.9
+519,Aksaray,2024-11-16,Bölgesel düzensiz yağmur yağışlı,10.5
+520,Aksaray,2024-11-17,Bölgesel düzensiz yağmur yağışlı,8.9
+521,Aksaray,2024-11-18,Bölgesel düzensiz yağmur yağışlı,8.4
+522,Aksaray,2024-11-19,Bölgesel düzensiz yağmur yağışlı,8.2
+523,Aksaray,2024-11-20,Güneşli,7.2
+524,Aksaray,2024-11-21,Güneşli,9.7
+525,Aksaray,2024-11-22,Parçalı Bulutlu,11.1
+526,Aksaray,2024-11-23,Bölgesel düzensiz yağmur yağışlı,12.2
+527,Aksaray,2024-11-24,Güneşli,8.0
+528,Aksaray,2024-11-25,Güneşli,8.7
+529,Aksaray,2024-11-26,Güneşli,8.6
+530,Aksaray,2024-11-27,Parçalı Bulutlu,9.9
+531,Aksaray,2024-11-28,Parçalı Bulutlu,11.1
+532,Bingol,2024-11-15,Güneşli,8.0
+533,Bingol,2024-11-16,Bölgesel düzensiz yağmur yağışlı,6.7
+534,Bingol,2024-11-17,Bölgesel düzensiz yağmur yağışlı,6.1
+535,Bingol,2024-11-18,Şiddetli yağmurlu,5.1
+536,Bingol,2024-11-19,Bölgesel düzensiz yağmur yağışlı,4.6
+537,Bingol,2024-11-20,Parçalı Bulutlu,4.7
+538,Bingol,2024-11-21,Bölgesel düzensiz yağmur yağışlı,6.5
+539,Bingol,2024-11-22,Bölgesel düzensiz yağmur yağışlı,6.3
+540,Bingol,2024-11-23,Bölgesel düzensiz yağmur yağışlı,8.2
+541,Bingol,2024-11-24,Güneşli,8.8
+542,Bingol,2024-11-25,Güneşli,9.0
+543,Bingol,2024-11-26,Güneşli,9.0
+544,Bingol,2024-11-27,Güneşli,8.0
+545,Bingol,2024-11-28,Güneşli,7.7
+546,Karabuk,2024-11-15,Orta kuvvetli yağmurlu,8.3
+547,Karabuk,2024-11-16,Orta kuvvetli yağmurlu,7.9
+548,Karabuk,2024-11-17,Güneşli,7.7
+549,Karabuk,2024-11-18,Bölgesel düzensiz yağmur yağışlı,9.0
+550,Karabuk,2024-11-19,Bölgesel düzensiz yağmur yağışlı,9.4
+551,Karabuk,2024-11-20,Güneşli,8.8
+552,Karabuk,2024-11-21,Güneşli,12.2
+553,Karabuk,2024-11-22,Bölgesel düzensiz yağmur yağışlı,9.2
+554,Karabuk,2024-11-23,Bölgesel düzensiz yağmur yağışlı,5.1
+555,Karabuk,2024-11-24,Güneşli,1.6
+556,Karabuk,2024-11-25,Güneşli,1.0
+557,Karabuk,2024-11-26,Güneşli,9.2
+558,Karabuk,2024-11-27,Parçalı Bulutlu,10.4
+559,Karabuk,2024-11-28,Güneşli,11.8
+560,Bayburt,2024-11-15,Güneşli,3.3
+561,Bayburt,2024-11-16,Orta kuvvetli yağmurlu,2.2
+562,Bayburt,2024-11-17,Güneşli,-0.0
+563,Bayburt,2024-11-18,Bölgesel düzensiz yağmur yağışlı,2.0
+564,Bayburt,2024-11-19,Bölgesel düzensiz yağmur yağışlı,1.5
+565,Bayburt,2024-11-20,Parçalı Bulutlu,1.1
+566,Bayburt,2024-11-21,Güneşli,1.3
+567,Bayburt,2024-11-22,Bölgesel düzensiz yağmur yağışlı,2.8
+568,Bayburt,2024-11-23,Bölgesel düzensiz yağmur yağışlı,3.5
+569,Bayburt,2024-11-24,Güneşli,-0.2
+570,Bayburt,2024-11-25,Güneşli,2.2
+571,Bayburt,2024-11-26,Güneşli,3.2
+572,Bayburt,2024-11-27,Güneşli,2.8
+573,Bayburt,2024-11-28,Güneşli,2.6
+574,Giresun,2024-11-15,Bölgesel düzensiz yağmur yağışlı,13.1
+575,Giresun,2024-11-16,Şiddetli yağmurlu,9.6
+576,Giresun,2024-11-17,Bölgesel düzensiz yağmur yağışlı,9.3
+577,Giresun,2024-11-18,Bölgesel düzensiz yağmur yağışlı,12.3
+578,Giresun,2024-11-19,Şiddetli yağmurlu,10.7
+579,Giresun,2024-11-20,Güneşli,11.3
+580,Giresun,2024-11-21,Güneşli,13.7
+581,Giresun,2024-11-22,Parçalı Bulutlu,12.6
+582,Giresun,2024-11-23,Orta kuvvetli yağmurlu,11.0
+583,Giresun,2024-11-24,Bölgesel düzensiz yağmur yağışlı,7.2
+584,Giresun,2024-11-25,Güneşli,8.9
+585,Giresun,2024-11-26,Güneşli,8.9
+586,Giresun,2024-11-27,Güneşli,10.5
+587,Giresun,2024-11-28,Güneşli,11.8
+588,Kahramanmaras,2024-11-15,Güneşli,13.5
+589,Kahramanmaras,2024-11-16,Güneşli,13.0
+590,Kahramanmaras,2024-11-17,Orta kuvvetli yağmurlu,10.2
+591,Kahramanmaras,2024-11-18,Orta kuvvetli yağmurlu,9.4
+592,Kahramanmaras,2024-11-19,Güneşli,9.3
+593,Kahramanmaras,2024-11-20,Bölgesel düzensiz yağmur yağışlı,8.2
+594,Kahramanmaras,2024-11-21,Bölgesel düzensiz yağmur yağışlı,10.5
+595,Kahramanmaras,2024-11-22,Bölgesel düzensiz yağmur yağışlı,11.0
+596,Kahramanmaras,2024-11-23,Çok bulutlu,10.9
+597,Kahramanmaras,2024-11-24,Güneşli,11.3
+598,Kahramanmaras,2024-11-25,Güneşli,11.7
+599,Kahramanmaras,2024-11-26,Güneşli,11.9
+600,Kahramanmaras,2024-11-27,Güneşli,11.6
+601,Kahramanmaras,2024-11-28,Güneşli,11.0
+602,Mardin,2024-11-15,Güneşli,13.8
+603,Mardin,2024-11-16,Bölgesel düzensiz yağmur yağışlı,13.4
+604,Mardin,2024-11-17,Parçalı Bulutlu,13.6
+605,Mardin,2024-11-18,Bölgesel düzensiz yağmur yağışlı,13.7
+606,Mardin,2024-11-19,Bölgesel düzensiz yağmur yağışlı,12.2
+607,Mardin,2024-11-20,Güneşli,11.2
+608,Mardin,2024-11-21,Güneşli,12.8
+609,Mardin,2024-11-22,Bölgesel düzensiz yağmur yağışlı,13.6
+610,Mardin,2024-11-23,Parçalı Bulutlu,14.4
+611,Mardin,2024-11-24,Güneşli,14.2
+612,Mardin,2024-11-25,Güneşli,13.8
+613,Mardin,2024-11-26,Güneşli,14.1
+614,Mardin,2024-11-27,Güneşli,13.9
+615,Mardin,2024-11-28,Güneşli,14.5
+616,Mus,2024-11-16,Orta kuvvetli yağmurlu,26.6
+617,Mus,2024-11-17,Bölgesel düzensiz yağmur yağışlı,26.7
+618,Mus,2024-11-18,Bölgesel düzensiz yağmur yağışlı,26.7
+619,Mus,2024-11-19,Bölgesel düzensiz yağmur yağışlı,26.9
+620,Mus,2024-11-20,Bölgesel düzensiz yağmur yağışlı,26.0
+621,Mus,2024-11-21,Bölgesel düzensiz yağmur yağışlı,25.6
+622,Mus,2024-11-22,Bölgesel düzensiz yağmur yağışlı,26.2
+623,Mus,2024-11-23,Bölgesel düzensiz yağmur yağışlı,26.8
+624,Mus,2024-11-24,Bölgesel düzensiz yağmur yağışlı,26.6
+625,Mus,2024-11-25,Bölgesel düzensiz yağmur yağışlı,26.3
+626,Mus,2024-11-26,Bölgesel düzensiz yağmur yağışlı,26.6
+627,Mus,2024-11-27,Bölgesel düzensiz yağmur yağışlı,27.0
+628,Mus,2024-11-28,Bulutlu,26.6
+629,Mus,2024-11-29,Bölgesel düzensiz yağmur yağışlı,26.6
+630,Siirt,2024-11-15,Güneşli,11.8
+631,Siirt,2024-11-16,Parçalı Bulutlu,11.3
+632,Siirt,2024-11-17,Bölgesel düzensiz yağmur yağışlı,12.1
+633,Siirt,2024-11-18,Bölgesel düzensiz yağmur yağışlı,11.5
+634,Siirt,2024-11-19,Orta kuvvetli yağmurlu,11.2
+635,Siirt,2024-11-20,Güneşli,10.0
+636,Siirt,2024-11-21,Güneşli,10.6
+637,Siirt,2024-11-22,Parçalı Bulutlu,10.7
+638,Siirt,2024-11-23,Parçalı Bulutlu,12.3
+639,Siirt,2024-11-24,Güneşli,12.5
+640,Siirt,2024-11-25,Güneşli,11.1
+641,Siirt,2024-11-26,Güneşli,11.6
+642,Siirt,2024-11-27,Güneşli,11.8
+643,Siirt,2024-11-28,Güneşli,11.8
+644,Sivas,2024-11-15,Bölgesel düzensiz yağmur yağışlı,7.7
+645,Sivas,2024-11-16,Orta kuvvetli yağmurlu,5.6
+646,Sivas,2024-11-17,Parçalı Bulutlu,6.4
+647,Sivas,2024-11-18,Orta kuvvetli yağmurlu,7.4
+648,Sivas,2024-11-19,Bölgesel düzensiz yağmur yağışlı,6.3
+649,Sivas,2024-11-20,Güneşli,4.5
+650,Sivas,2024-11-21,Güneşli,6.3
+651,Sivas,2024-11-22,Parçalı Bulutlu,7.1
+652,Sivas,2024-11-23,Bölgesel düzensiz yağmur yağışlı,7.2
+653,Sivas,2024-11-24,Güneşli,4.3
+654,Sivas,2024-11-25,Güneşli,6.3
+655,Sivas,2024-11-26,Güneşli,6.7
+656,Sivas,2024-11-27,Güneşli,7.2
+657,Sivas,2024-11-28,Güneşli,6.8
+658,Kilis,2024-11-15,Güneşli,15.2
+659,Kilis,2024-11-16,Güneşli,14.4
+660,Kilis,2024-11-17,Orta kuvvetli yağmurlu,13.0
+661,Kilis,2024-11-18,Şiddetli yağmurlu,11.2
+662,Kilis,2024-11-19,Güneşli,12.7
+663,Kilis,2024-11-20,Bölgesel düzensiz yağmur yağışlı,12.6
+664,Kilis,2024-11-21,Güneşli,14.0
+665,Kilis,2024-11-22,Parçalı Bulutlu,14.3
+666,Kilis,2024-11-23,Parçalı Bulutlu,14.8
+667,Kilis,2024-11-24,Güneşli,15.4
+668,Kilis,2024-11-25,Güneşli,15.9
+669,Kilis,2024-11-26,Güneşli,15.2
+670,Kilis,2024-11-27,Parçalı Bulutlu,15.2
+671,Kilis,2024-11-28,Güneşli,15.0
+672,Artvin,2024-11-15,Güneşli,4.4
+673,Artvin,2024-11-16,Orta kuvvetli yağmurlu,3.4
+674,Artvin,2024-11-17,Orta kuvvetli karlı,0.6
+675,Artvin,2024-11-18,Çok bulutlu,2.4
+676,Artvin,2024-11-19,Orta kuvvetli yağmurlu,2.4
+677,Artvin,2024-11-20,Parçalı Bulutlu,2.9
+678,Artvin,2024-11-21,Güneşli,3.1
+679,Artvin,2024-11-22,Güneşli,3.4
+680,Artvin,2024-11-23,Bölgesel düzensiz yağmur yağışlı,3.7
+681,Artvin,2024-11-24,Parçalı Bulutlu,-1.7
+682,Artvin,2024-11-25,Güneşli,1.9
+683,Artvin,2024-11-26,Güneşli,2.7
+684,Artvin,2024-11-27,Güneşli,4.8
+685,Artvin,2024-11-28,Güneşli,4.9
+686,Gumushane,2024-11-15,Parçalı Bulutlu,5.7
+687,Gumushane,2024-11-16,Orta kuvvetli yağmurlu,2.7
+688,Gumushane,2024-11-17,Güneşli,1.3
+689,Gumushane,2024-11-18,Bölgesel düzensiz yağmur yağışlı,2.6
+690,Gumushane,2024-11-19,Orta kuvvetli yağmurlu,2.9
+691,Gumushane,2024-11-20,Güneşli,2.3
+692,Gumushane,2024-11-21,Güneşli,3.1
+693,Gumushane,2024-11-22,Parçalı Bulutlu,3.4
+694,Gumushane,2024-11-23,Bölgesel düzensiz yağmur yağışlı,4.2
+695,Gumushane,2024-11-24,Parçalı Bulutlu,0.0
+696,Gumushane,2024-11-25,Güneşli,2.6
+697,Gumushane,2024-11-26,Güneşli,4.4
+698,Gumushane,2024-11-27,Güneşli,5.6
+699,Gumushane,2024-11-28,Güneşli,5.0
+700,Tokat,2024-11-15,Bölgesel düzensiz yağmur yağışlı,12.0
+701,Tokat,2024-11-16,Orta kuvvetli yağmurlu,7.9
+702,Tokat,2024-11-17,Güneşli,8.0
+703,Tokat,2024-11-18,Orta kuvvetli yağmurlu,8.4
+704,Tokat,2024-11-19,Bölgesel düzensiz yağmur yağışlı,6.9
+705,Tokat,2024-11-20,Güneşli,6.2
+706,Tokat,2024-11-21,Güneşli,9.7
+707,Tokat,2024-11-22,Parçalı Bulutlu,11.2
+708,Tokat,2024-11-23,Bölgesel düzensiz yağmur yağışlı,10.7
+709,Tokat,2024-11-24,Güneşli,5.6
+710,Tokat,2024-11-25,Güneşli,7.0
+711,Tokat,2024-11-26,Güneşli,6.9
+712,Tokat,2024-11-27,Güneşli,9.8
+713,Tokat,2024-11-28,Güneşli,9.5
+714,Cankiri,2024-11-15,Bölgesel düzensiz yağmur yağışlı,8.1
+715,Cankiri,2024-11-16,Bölgesel düzensiz yağmur yağışlı,7.1
+716,Cankiri,2024-11-17,Güneşli,4.8
+717,Cankiri,2024-11-18,Bölgesel düzensiz yağmur yağışlı,6.5
+718,Cankiri,2024-11-19,Parçalı Bulutlu,6.4
+719,Cankiri,2024-11-20,Güneşli,4.0
+720,Cankiri,2024-11-21,Parçalı Bulutlu,8.2
+721,Cankiri,2024-11-22,Bölgesel düzensiz yağmur yağışlı,10.5
+722,Cankiri,2024-11-23,Bölgesel düzensiz yağmur yağışlı,5.1
+723,Cankiri,2024-11-24,Güneşli,1.1
+724,Cankiri,2024-11-25,Güneşli,5.8
+725,Cankiri,2024-11-26,Güneşli,7.3
+726,Cankiri,2024-11-27,Parçalı Bulutlu,7.4
+727,Cankiri,2024-11-28,Güneşli,8.2
+728,Sinop,2024-11-15,Orta kuvvetli yağmurlu,13.2
+729,Sinop,2024-11-16,Orta kuvvetli yağmurlu,11.4
+730,Sinop,2024-11-17,Bölgesel düzensiz yağmur yağışlı,12.1
+731,Sinop,2024-11-18,Bölgesel düzensiz yağmur yağışlı,13.3
+732,Sinop,2024-11-19,Bölgesel düzensiz yağmur yağışlı,13.4
+733,Sinop,2024-11-20,Parçalı Bulutlu,13.7
+734,Sinop,2024-11-21,Güneşli,16.2
+735,Sinop,2024-11-22,Bölgesel düzensiz yağmur yağışlı,12.5
+736,Sinop,2024-11-23,Bölgesel düzensiz yağmur yağışlı,11.2
+737,Sinop,2024-11-24,Güneşli,10.0
+738,Sinop,2024-11-25,Güneşli,12.0
+739,Sinop,2024-11-26,Güneşli,12.7
+740,Sinop,2024-11-27,Güneşli,13.1
+741,Sinop,2024-11-28,Parçalı Bulutlu,13.0
+742,Usak,2024-11-15,Bölgesel düzensiz yağmur yağışlı,10.8
+743,Usak,2024-11-16,Bölgesel düzensiz yağmur yağışlı,11.0
+744,Usak,2024-11-17,Orta kuvvetli yağmurlu,10.4
+745,Usak,2024-11-18,Bölgesel düzensiz yağmur yağışlı,9.1
+746,Usak,2024-11-19,Güneşli,8.3
+747,Usak,2024-11-20,Güneşli,7.5
+748,Usak,2024-11-21,Parçalı Bulutlu,10.0
+749,Usak,2024-11-22,Bölgesel düzensiz yağmur yağışlı,11.6
+750,Usak,2024-11-23,Bölgesel düzensiz yağmur yağışlı,9.9
+751,Usak,2024-11-24,Güneşli,9.6
+752,Usak,2024-11-25,Güneşli,11.0
+753,Usak,2024-11-26,Güneşli,11.4
+754,Usak,2024-11-27,Güneşli,11.0
+755,Usak,2024-11-28,Güneşli,9.8
+756,Kirsehir,2024-11-15,Bölgesel düzensiz yağmur yağışlı,9.7
+757,Kirsehir,2024-11-16,Bölgesel düzensiz yağmur yağışlı,8.3
+758,Kirsehir,2024-11-17,Bölgesel düzensiz yağmur yağışlı,6.5
+759,Kirsehir,2024-11-18,Bölgesel düzensiz yağmur yağışlı,8.0
+760,Kirsehir,2024-11-19,Bölgesel düzensiz yağmur yağışlı,7.6
+761,Kirsehir,2024-11-20,Güneşli,6.9
+762,Kirsehir,2024-11-21,Güneşli,8.6
+763,Kirsehir,2024-11-22,Parçalı Bulutlu,10.3
+764,Kirsehir,2024-11-23,Bölgesel düzensiz yağmur yağışlı,10.8
+765,Kirsehir,2024-11-24,Güneşli,5.7
+766,Kirsehir,2024-11-25,Güneşli,6.8
+767,Kirsehir,2024-11-26,Güneşli,7.3
+768,Kirsehir,2024-11-27,Parçalı Bulutlu,8.5
+769,Kirsehir,2024-11-28,Güneşli,11.1
+770,Burdur,2024-11-15,Bölgesel düzensiz yağmur yağışlı,13.8
+771,Burdur,2024-11-16,Bölgesel düzensiz yağmur yağışlı,11.1
+772,Burdur,2024-11-17,Orta kuvvetli yağmurlu,9.2
+773,Burdur,2024-11-18,Bölgesel düzensiz yağmur yağışlı,9.6
+774,Burdur,2024-11-19,Güneşli,10.2
+775,Burdur,2024-11-20,Güneşli,9.3
+776,Burdur,2024-11-21,Bölgesel düzensiz yağmur yağışlı,8.6
+777,Burdur,2024-11-22,Bölgesel düzensiz yağmur yağışlı,10.0
+778,Burdur,2024-11-23,Bölgesel düzensiz yağmur yağışlı,11.8
+779,Burdur,2024-11-24,Güneşli,11.9
+780,Burdur,2024-11-25,Güneşli,11.9
+781,Burdur,2024-11-26,Güneşli,11.9
+782,Burdur,2024-11-27,Parçalı Bulutlu,12.3
+783,Burdur,2024-11-28,Güneşli,10.9
+784,Yozgat,2024-11-15,Bölgesel düzensiz yağmur yağışlı,9.3
+785,Yozgat,2024-11-16,Bölgesel düzensiz yağmur yağışlı,6.8
+786,Yozgat,2024-11-17,Parçalı Bulutlu,6.8
+787,Yozgat,2024-11-18,Orta kuvvetli yağmurlu,8.4
+788,Yozgat,2024-11-19,Bölgesel düzensiz yağmur yağışlı,7.4
+789,Yozgat,2024-11-20,Güneşli,6.4
+790,Yozgat,2024-11-21,Bölgesel düzensiz yağmur yağışlı,8.2
+791,Yozgat,2024-11-22,Bölgesel düzensiz yağmur yağışlı,10.4
+792,Yozgat,2024-11-23,Bölgesel düzensiz yağmur yağışlı,8.5
+793,Yozgat,2024-11-24,Güneşli,4.3
+794,Yozgat,2024-11-25,Güneşli,6.5
+795,Yozgat,2024-11-26,Güneşli,7.4
+796,Yozgat,2024-11-27,Parçalı Bulutlu,8.2
+797,Yozgat,2024-11-28,Güneşli,9.3
+798,Karaman,2024-11-15,Bölgesel düzensiz yağmur yağışlı,10.5
+799,Karaman,2024-11-16,Bölgesel düzensiz yağmur yağışlı,10.4
+800,Karaman,2024-11-17,Orta kuvvetli yağmurlu,9.9
+801,Karaman,2024-11-18,Bölgesel düzensiz yağmur yağışlı,9.4
+802,Karaman,2024-11-19,Güneşli,8.6
+803,Karaman,2024-11-20,Güneşli,7.1
+804,Karaman,2024-11-21,Güneşli,8.3
+805,Karaman,2024-11-22,Bölgesel düzensiz yağmur yağışlı,9.2
+806,Karaman,2024-11-23,Parçalı Bulutlu,10.8
+807,Karaman,2024-11-24,Parçalı Bulutlu,8.5
+808,Karaman,2024-11-25,Güneşli,8.3
+809,Karaman,2024-11-26,Parçalı Bulutlu,8.6
+810,Karaman,2024-11-27,Parçalı Bulutlu,10.2
+811,Karaman,2024-11-28,Güneşli,10.5
+812,Osmaniye,2024-11-15,Bölgesel düzensiz yağmur yağışlı,15.7
+813,Osmaniye,2024-11-16,Bölgesel düzensiz yağmur yağışlı,16.3
+814,Osmaniye,2024-11-17,Orta kuvvetli yağmurlu,13.9
+815,Osmaniye,2024-11-18,Orta kuvvetli yağmurlu,12.3
+816,Osmaniye,2024-11-19,Bölgesel düzensiz yağmur yağışlı,14.4
+817,Osmaniye,2024-11-20,Bölgesel düzensiz yağmur yağışlı,11.3
+818,Osmaniye,2024-11-21,Güneşli,12.1
+819,Osmaniye,2024-11-22,Bölgesel düzensiz yağmur yağışlı,13.3
+820,Osmaniye,2024-11-23,Çok bulutlu,14.2
+821,Osmaniye,2024-11-24,Güneşli,15.9
+822,Osmaniye,2024-11-25,Güneşli,15.6
+823,Osmaniye,2024-11-26,Güneşli,16.4
+824,Osmaniye,2024-11-27,Parçalı Bulutlu,15.4
+825,Osmaniye,2024-11-28,Güneşli,14.3
+826,Nigde,2024-11-15,Güneşli,8.3
+827,Nigde,2024-11-16,Bölgesel düzensiz yağmur yağışlı,6.8
+828,Nigde,2024-11-17,Orta kuvvetli yağmurlu,5.1
+829,Nigde,2024-11-18,Bölgesel düzensiz yağmur yağışlı,3.2
+830,Nigde,2024-11-19,Bölgesel düzensiz yağmur yağışlı,5.3
+831,Nigde,2024-11-20,Güneşli,4.8
+832,Nigde,2024-11-21,Güneşli,5.9
+833,Nigde,2024-11-22,Bölgesel düzensiz yağmur yağışlı,5.2
+834,Nigde,2024-11-23,Bölgesel düzensiz yağmur yağışlı,6.9
+835,Nigde,2024-11-24,Güneşli,7.4
+836,Nigde,2024-11-25,Güneşli,6.5
+837,Nigde,2024-11-26,Güneşli,7.7
+838,Nigde,2024-11-27,Parçalı Bulutlu,8.5
+839,Nigde,2024-11-28,Güneşli,8.0
+840,Giresun,2024-11-15,Bölgesel düzensiz yağmur yağışlı,13.1
+841,Giresun,2024-11-16,Şiddetli yağmurlu,9.6
+842,Giresun,2024-11-17,Bölgesel düzensiz yağmur yağışlı,9.3
+843,Giresun,2024-11-18,Bölgesel düzensiz yağmur yağışlı,12.3
+844,Giresun,2024-11-19,Şiddetli yağmurlu,10.7
+845,Giresun,2024-11-20,Güneşli,11.3
+846,Giresun,2024-11-21,Güneşli,13.7
+847,Giresun,2024-11-22,Parçalı Bulutlu,12.6
+848,Giresun,2024-11-23,Orta kuvvetli yağmurlu,11.0
+849,Giresun,2024-11-24,Bölgesel düzensiz yağmur yağışlı,7.2
+850,Giresun,2024-11-25,Güneşli,8.9
+851,Giresun,2024-11-26,Güneşli,8.9
+852,Giresun,2024-11-27,Güneşli,10.5
+853,Giresun,2024-11-28,Güneşli,11.8
+854,Corum,2024-11-15,Bölgesel düzensiz yağmur yağışlı,10.2
+855,Corum,2024-11-16,Bölgesel düzensiz yağmur yağışlı,7.9
+856,Corum,2024-11-17,Güneşli,6.3
+857,Corum,2024-11-18,Bölgesel düzensiz yağmur yağışlı,7.1
+858,Corum,2024-11-19,Bölgesel düzensiz yağmur yağışlı,7.6
+859,Corum,2024-11-20,Güneşli,6.3
+860,Corum,2024-11-21,Güneşli,10.6
+861,Corum,2024-11-22,Bölgesel düzensiz yağmur yağışlı,12.4
+862,Corum,2024-11-23,Bölgesel düzensiz yağmur yağışlı,9.9
+863,Corum,2024-11-24,Güneşli,2.9
+864,Corum,2024-11-25,Güneşli,6.7
+865,Corum,2024-11-26,Güneşli,7.2
+866,Corum,2024-11-27,Parçalı Bulutlu,8.0
+867,Corum,2024-11-28,Güneşli,9.5
+868,Izmit,2024-11-15,Orta kuvvetli yağmurlu,12.3
+869,Izmit,2024-11-16,Orta kuvvetli yağmurlu,9.8
+870,Izmit,2024-11-17,Parçalı Bulutlu,9.3
+871,Izmit,2024-11-18,Çok bulutlu,10.0
+872,Izmit,2024-11-19,Güneşli,10.1
+873,Izmit,2024-11-20,Parçalı Bulutlu,11.2
+874,Izmit,2024-11-21,Bölgesel düzensiz yağmur yağışlı,16.1
+875,Izmit,2024-11-22,Bölgesel düzensiz yağmur yağışlı,9.9
+876,Izmit,2024-11-23,Bölgesel düzensiz yağmur yağışlı,7.0
+877,Izmit,2024-11-24,Güneşli,6.0
+878,Izmit,2024-11-25,Güneşli,7.9
+879,Izmit,2024-11-26,Güneşli,9.7
+880,Izmit,2024-11-27,Çok bulutlu,10.9
+881,Izmit,2024-11-28,Güneşli,11.8
+882,Bolu,2024-11-15,Orta kuvvetli yağmurlu,8.4
+883,Bolu,2024-11-16,Bölgesel düzensiz yağmur yağışlı,3.6
+884,Bolu,2024-11-17,Parçalı Bulutlu,4.1
+885,Bolu,2024-11-18,Bölgesel düzensiz yağmur yağışlı,4.3
+886,Bolu,2024-11-19,Güneşli,4.1
+887,Bolu,2024-11-20,Güneşli,4.2
+888,Bolu,2024-11-21,Bölgesel düzensiz yağmur yağışlı,8.9
+889,Bolu,2024-11-22,Bölgesel düzensiz yağmur yağışlı,9.4
+890,Bolu,2024-11-23,Bölgesel düzensiz yağmur yağışlı,1.2
+891,Bolu,2024-11-24,Güneşli,-0.1
+892,Bolu,2024-11-25,Güneşli,3.2
+893,Bolu,2024-11-26,Güneşli,7.5
+894,Bolu,2024-11-27,Parçalı Bulutlu,10.6
+895,Bolu,2024-11-28,Güneşli,9.3
+896,Corum,2024-11-15,Bölgesel düzensiz yağmur yağışlı,10.2
+897,Corum,2024-11-16,Bölgesel düzensiz yağmur yağışlı,7.9
+898,Corum,2024-11-17,Güneşli,6.3
+899,Corum,2024-11-18,Bölgesel düzensiz yağmur yağışlı,7.1
+900,Corum,2024-11-19,Bölgesel düzensiz yağmur yağışlı,7.6
+901,Corum,2024-11-20,Güneşli,6.3
+902,Corum,2024-11-21,Güneşli,10.6
+903,Corum,2024-11-22,Bölgesel düzensiz yağmur yağışlı,12.4
+904,Corum,2024-11-23,Bölgesel düzensiz yağmur yağışlı,9.9
+905,Corum,2024-11-24,Güneşli,2.9
+906,Corum,2024-11-25,Güneşli,6.7
+907,Corum,2024-11-26,Güneşli,7.2
+908,Corum,2024-11-27,Parçalı Bulutlu,8.0
+909,Corum,2024-11-28,Güneşli,9.5
+910,Kastamonu,2024-11-15,Orta kuvvetli yağmurlu,4.3
+911,Kastamonu,2024-11-16,Bölgesel düzensiz yağmur yağışlı,5.5
+912,Kastamonu,2024-11-17,Güneşli,4.2
+913,Kastamonu,2024-11-18,Bölgesel düzensiz yağmur yağışlı,5.8
+914,Kastamonu,2024-11-19,Parçalı Bulutlu,5.1
+915,Kastamonu,2024-11-20,Güneşli,5.2
+916,Kastamonu,2024-11-21,Bölgesel düzensiz yağmur yağışlı,9.1
+917,Kastamonu,2024-11-22,Bölgesel düzensiz yağmur yağışlı,5.9
+918,Kastamonu,2024-11-23,Bölgesel düzensiz yağmur yağışlı,3.3
+919,Kastamonu,2024-11-24,Güneşli,0.4
+920,Kastamonu,2024-11-25,Güneşli,3.0
+921,Kastamonu,2024-11-26,Güneşli,7.5
+922,Kastamonu,2024-11-27,Güneşli,8.5
+923,Kastamonu,2024-11-28,Güneşli,8.0
+924,Bartin,2024-11-15,Bölgesel düzensiz yağmur yağışlı,7.3
+925,Bartin,2024-11-16,Bölgesel düzensiz yağmur yağışlı,8.6
+926,Bartin,2024-11-17,Orta kuvvetli yağmurlu,6.9
+927,Bartin,2024-11-18,Orta kuvvetli yağmurlu,5.2
+928,Bartin,2024-11-19,Orta kuvvetli yağmurlu,2.6
+929,Bartin,2024-11-20,Bölgesel düzensiz yağmur yağışlı,2.6
+930,Bartin,2024-11-21,Hafif sağnak şeklinde kar,0.2
+931,Bartin,2024-11-22,Parçalı Bulutlu,-1.1
+932,Bartin,2024-11-23,Orta kuvvetli karlı,-0.5
+933,Bartin,2024-11-24,Hafif karlı,-0.5
+934,Bartin,2024-11-25,Hafif dondurucu yağmurlu,-0.6
+935,Bartin,2024-11-26,Parçalı Bulutlu,3.2
+936,Bartin,2024-11-27,Bölgesel düzensiz yağmur yağışlı,4.9
+937,Bartin,2024-11-28,Bulutlu,6.2
+938,Duzce,2024-11-15,Orta kuvvetli yağmurlu,6.6
+939,Duzce,2024-11-16,Orta kuvvetli yağmurlu,9.0
+940,Duzce,2024-11-17,Parçalı Bulutlu,7.5
+941,Duzce,2024-11-18,Parçalı Bulutlu,7.9
+942,Duzce,2024-11-19,Güneşli,10.1
+943,Duzce,2024-11-20,Güneşli,11.0
+944,Duzce,2024-11-21,Bölgesel düzensiz yağmur yağışlı,15.0
+945,Duzce,2024-11-22,Bölgesel düzensiz yağmur yağışlı,10.7
+946,Duzce,2024-11-23,Bölgesel düzensiz yağmur yağışlı,5.4
+947,Duzce,2024-11-24,Güneşli,2.1
+948,Duzce,2024-11-25,Güneşli,6.0
+949,Duzce,2024-11-26,Güneşli,11.2
+950,Duzce,2024-11-27,Çok bulutlu,10.1
+951,Duzce,2024-11-28,Güneşli,12.3
+952,Sakarya,2024-11-15,Orta kuvvetli yağmurlu,12.7
+953,Sakarya,2024-11-16,Orta kuvvetli yağmurlu,9.9
+954,Sakarya,2024-11-17,Parçalı Bulutlu,8.5
+955,Sakarya,2024-11-18,Parçalı Bulutlu,10.0
+956,Sakarya,2024-11-19,Güneşli,10.0
+957,Sakarya,2024-11-20,Güneşli,11.1
+958,Sakarya,2024-11-21,Bölgesel düzensiz yağmur yağışlı,16.3
+959,Sakarya,2024-11-22,Bölgesel düzensiz yağmur yağışlı,9.9
+960,Sakarya,2024-11-23,Bölgesel düzensiz yağmur yağışlı,7.0
+961,Sakarya,2024-11-24,Güneşli,5.9
+962,Sakarya,2024-11-25,Güneşli,7.8
+963,Sakarya,2024-11-26,Güneşli,9.8
+964,Sakarya,2024-11-27,Çok bulutlu,10.8
+965,Sakarya,2024-11-28,Güneşli,12.0
+966,Erzurum,2024-11-15,Güneşli,1.9
+967,Erzurum,2024-11-16,Orta kuvvetli yağmurlu,2.0
+968,Erzurum,2024-11-17,Hafif dondurucu yağmurlu,-0.6
+969,Erzurum,2024-11-18,Bölgesel düzensiz yağmur yağışlı,2.0
+970,Erzurum,2024-11-19,Orta kuvvetli yağmurlu,1.6
+971,Erzurum,2024-11-20,Parçalı Bulutlu,0.3
+972,Erzurum,2024-11-21,Parçalı Bulutlu,0.4
+973,Erzurum,2024-11-22,Parçalı Bulutlu,2.1
+974,Erzurum,2024-11-23,Bölgesel düzensiz yağmur yağışlı,3.3
+975,Erzurum,2024-11-24,Bölgesel düzensiz yağmur yağışlı,1.6
+976,Erzurum,2024-11-25,Güneşli,1.3
+977,Erzurum,2024-11-26,Güneşli,1.4
+978,Erzurum,2024-11-27,Güneşli,1.5
+979,Erzurum,2024-11-28,Güneşli,1.1
+980,Sirnak,2024-11-15,Güneşli,8.2
+981,Sirnak,2024-11-16,Bölgesel düzensiz yağmur yağışlı,8.1
+982,Sirnak,2024-11-17,Bölgesel düzensiz yağmur yağışlı,9.0
+983,Sirnak,2024-11-18,Bölgesel düzensiz yağmur yağışlı,9.0
+984,Sirnak,2024-11-19,Orta kuvvetli yağmurlu,7.9
+985,Sirnak,2024-11-20,Parçalı Bulutlu,7.4
+986,Sirnak,2024-11-21,Güneşli,8.3
+987,Sirnak,2024-11-22,Parçalı Bulutlu,8.6
+988,Sirnak,2024-11-23,Parçalı Bulutlu,9.9
+989,Sirnak,2024-11-24,Güneşli,10.3
+990,Sirnak,2024-11-25,Güneşli,10.2
+991,Sirnak,2024-11-26,Güneşli,10.7
+992,Sirnak,2024-11-27,Güneşli,9.9
+993,Sirnak,2024-11-28,Güneşli,9.0
+994,Kirklareli,2024-11-15,Orta kuvvetli yağmurlu,8.2
+995,Kirklareli,2024-11-16,Güneşli,6.2
+996,Kirklareli,2024-11-17,Güneşli,6.7
+997,Kirklareli,2024-11-18,Güneşli,6.9
+998,Kirklareli,2024-11-19,Parçalı Bulutlu,8.3
+999,Kirklareli,2024-11-20,Bölgesel düzensiz yağmur yağışlı,8.9
+1000,Kirklareli,2024-11-21,Bölgesel düzensiz yağmur yağışlı,12.9
+1001,Kirklareli,2024-11-22,Güneşli,6.5
+1002,Kirklareli,2024-11-23,Bölgesel düzensiz yağmur yağışlı,4.4
+1003,Kirklareli,2024-11-24,Güneşli,4.2
+1004,Kirklareli,2024-11-25,Güneşli,7.0
+1005,Kirklareli,2024-11-26,Güneşli,8.3
+1006,Kirklareli,2024-11-27,Parçalı Bulutlu,9.0
+1007,Kirklareli,2024-11-28,Parçalı Bulutlu,9.1
+1008,Erzincan,2024-11-15,Güneşli,7.1
+1009,Erzincan,2024-11-16,Orta kuvvetli yağmurlu,5.4
+1010,Erzincan,2024-11-17,Güneşli,2.9
+1011,Erzincan,2024-11-18,Orta kuvvetli yağmurlu,3.0
+1012,Erzincan,2024-11-19,Bölgesel düzensiz yağmur yağışlı,2.2
+1013,Erzincan,2024-11-20,Güneşli,1.2
+1014,Erzincan,2024-11-21,Parçalı Bulutlu,5.4
+1015,Erzincan,2024-11-22,Parçalı Bulutlu,5.5
+1016,Erzincan,2024-11-23,Bölgesel düzensiz yağmur yağışlı,5.6
+1017,Erzincan,2024-11-24,Güneşli,3.8
+1018,Erzincan,2024-11-25,Güneşli,4.9
+1019,Erzincan,2024-11-26,Güneşli,5.3
+1020,Erzincan,2024-11-27,Güneşli,4.7
+1021,Erzincan,2024-11-28,Güneşli,4.4
